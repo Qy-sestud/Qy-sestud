@@ -6,7 +6,7 @@
 
 I’m a student in WIF3005 Software Maintenance and Evolution course.
  
-My expectation of this course is to gain a solid understanding of software maintenance and evolution, including different maintenance techniques, tools and strategies for improving and managing legacy software systems. I also hope to apply these concepts to real-world software projects and develop better skills in maintaining software quality and reliability.
+My expectations of this course is to gain a solid understanding of software maintenance and evolution, including different maintenance techniques, tools and strategies for improving and managing legacy software systems. I also hope to apply these concepts to real-world software projects and develop better skills in maintaining software quality and reliability.
 
 About myself as a Software Engineering student: I am interested in software development, problem-solving and learning new technologies to build practical and reliable software solutions.
 
@@ -36,5 +36,5 @@ About myself as a Software Engineering student: I am interested in software deve
 - Python Computing
 - Software Testing
 
-## Github Stats
+## GitHub Stats
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Qy-sestud&theme=catppuccin)](https://github.com/Qy-sestud)
